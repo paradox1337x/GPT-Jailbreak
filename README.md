@@ -12,9 +12,3 @@ This is 3 different types of a Chat-GPT jailbreak. Below you can find a key for 
 
 To use these jailbreaks, simply open the jailbreak file and copy the text. Then open a new [ChatGPT window](https://chat.openai.com/)
 and paste the text. Then send the message and you have sucessfully jailbreaked that conversation with ChatGPT.
-
-# Credits
-
-Updated by [Payson Holmes](https://github.com/P-DennyGamingYT/)
-
-Made By [GabryB03](https://github.com/GabryB03)
