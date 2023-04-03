@@ -4,6 +4,7 @@ This is 3 different types of a Chat-GPT jailbreak. Below you can find a key for 
 
 | Jailbreak     | WORKING       | Description                                                         |
 | ------------- |:-------------:| -------------------------------------------------------------------:|
+| EVIL          | YES           | Disables OpenAI policies Something illegal or something bad 100%    |
 | AIM           | YES           | Disables OpenAI policies 100%                                       |
 | RTM           | YES           | Disables OpenAI policies and removes explicit restirctions.         |
 | Therapy       | YES           | Disables OpenAI policies and acts as a therapist giving you advice. |
