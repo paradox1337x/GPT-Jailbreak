@@ -1,12 +1,12 @@
 # Chat-GPT Jailbreak
 
-This is 3 different types of a Chat-GPT jailbreak. Below you can find a key for what each of them does.
+This is different types of a Chat-GPT jailbreak. Below you can find a key for what each of them does.
 
 | Jailbreak     | WORKING       | Description                                                         |
 | ------------- |:-------------:| -------------------------------------------------------------------:|
 | DEV           | YES           | LATEST UPDATE    |
 | EVIL          | NO            |  
-
+| BYPASS        |               | At 20 Star, a Jailbreak full bypass is released.
 # How to use
 
 To use these jailbreaks, simply open the jailbreak file and copy the text. Then open a new [ChatGPT window](https://chat.openai.com/)
