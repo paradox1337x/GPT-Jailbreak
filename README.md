@@ -4,7 +4,7 @@
 > Sign in https://www.forefront.ai/
 
 ## Step 2
-> Select Gpt Chat
+> Select ChatGPT
 
 ## Step 3
 > Go in this script into the message.
