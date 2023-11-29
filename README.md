@@ -1,7 +1,7 @@
 # ChatGPT Jailbreak Update 11/29/2023
 
 ## Step 1 
-> Sign in https://www.forefront.ai/
+> Sign in https://flowgpt.com/chat
 
 ## Step 2
 > Select ChatGPT
