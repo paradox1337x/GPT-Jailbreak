@@ -18,8 +18,6 @@ I've invented and found a way to jailbreak that works well these days, so why us
 ## Step 3
 > Go In This Script Into The Message
 
-![image0](https://github.com/paradox1337x/ChatGPT-Jailbreak/assets/114198896/5da5c9f9-245e-414b-9fac-80db03cd71ae)
-
 ## AntiGPT V1
 
 ```
