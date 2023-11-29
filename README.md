@@ -9,7 +9,7 @@ I've invented and found a way to jailbreak that works well these days, so why us
 > Select ChatGPT
 
 ## Step 3
-> Go in this script into the message.
+> Go In This Script Into The Message
 
 ## AntiGPT V1
 
