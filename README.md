@@ -1,6 +1,6 @@
 # ChatGPT Jailbreak Update 11/29/2023
 
-I've invented and found a way to jailbreak that works well these days, so why use it? https://flowgpt.com/ because this will have little chance of denying your jailbreak Have fun with jailbreak :)
+I've invented and found a way to jailbreak that works well these days, so why use https://flowgpt.com/ because this will have little chance of denying your jailbreak Have fun with jailbreak :)
 
 ## Step 1 
 > Sign in https://flowgpt.com/chat
