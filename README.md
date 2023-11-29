@@ -2,6 +2,9 @@
 
 I've invented and found a way to jailbreak that works well these days, so why use https://flowgpt.com/ because this will have little chance of denying your jailbreak have fun with jailbreak :)
 
+![Marantz_ChatGPT_animated_gif](https://github.com/paradox1337x/AntiGPT-Jailbreak/assets/114198896/310679dd-2013-4a81-9b37-4ef1af744141)
+
+
 ## Step 1 
 > Sign in https://flowgpt.com/chat
 
