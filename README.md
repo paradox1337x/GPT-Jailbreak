@@ -1,4 +1,4 @@
-# ChatGPT Jailbreak Update 11/29/2023
+# AntiGPT Jailbreak
 
 I've invented and found a way to jailbreak that works well these days, so why use https://flowgpt.com/ because this will have little chance of denying your jailbreak have fun with jailbreak :)
 
